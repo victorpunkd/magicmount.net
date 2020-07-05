@@ -1,0 +1,55 @@
+.coverPageContainer {
+  margin-top: 30px;
+  position: relative;
+}
+
+.logoContainer {
+}
+
+.logoImage {
+  width: 250px;
+  height: 38px;
+}
+
+.coverPageInfo {
+  font-family: bhans;
+  margin-top: 30px;
+}
+
+.heroText {
+  font-size: 35px;
+  font-weight: 600;
+}
+
+.secondaryText {
+  margin-top: 10px;
+  font-size: 20px;
+  font-weight: 300;
+}
+
+.nepaliTextImageConatiner {
+  margin-top: 20px;
+}
+
+.nepaliTextImage {
+  width: 300px;
+  height: 45px;
+}
+
+.socialMediaButtonContainers {
+  position: absolute;
+  bottom: 0;
+  font-size: 40px;
+  color: #846cf3;
+}
+
+.heroImage {
+  width: 550px;
+  height: 411px;
+}
+
+.postPropertyButtonContainer {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}

@@ -1,0 +1,36 @@
+.propertyTypeCardContainer {
+  width: 100%;
+  height: 100%;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.propertyTypeImage {
+  width: 250px;
+  height: 375px;
+}
+
+.propertyTypeInformation {
+  margin-top: 20px;
+}
+
+.propertyType {
+  margin-top: 10px;
+  font-family: bhans;
+  font-size: 25px;
+  font-weight: 500;
+  padding: 0% 80px;
+}
+
+.propertyTypeDescription {
+  margin-top: 10px;
+  font-family: bhans;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 0% 60px;
+}
+
+.propertyTypeButtonContainer {
+  margin-top: 10px;
+  padding: 0% 100px;
+}
