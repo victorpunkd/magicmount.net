@@ -1,7 +1,6 @@
 import React from "react";
 import "./HomePage.css";
 import CoverPage from "../CoverPage/CoverPage";
-import Property from "../PropertyTypeLists/PropertyTypeLists";
 import PropertyLists from "../PropertyTypeLists/PropertyTypeLists";
 
 const HomePage = () => {
@@ -9,6 +8,7 @@ const HomePage = () => {
     <div className="homePageContainer">
       <CoverPage />
       <PropertyLists />
+      <div className="didvider" />
     </div>
   );
 };
